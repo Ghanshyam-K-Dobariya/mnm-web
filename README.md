@@ -1,4 +1,4 @@
-# my-project
+This is simple web app using preact js
 
 ## CLI Commands
 
